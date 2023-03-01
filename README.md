@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakeem Adli</h1>
-<h3 align="center">A enthusiatic fullstack developer from Malaysia</h3>
+<h3 align="center">A IIUM's graduate and enthusiatic fullstack developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **React Native & TailwindCSS**
 

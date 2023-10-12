@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakeem Adli</h1>
 <h3 align="center">A enthusiatic front-end developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **VueJS, TailwindCSS & FastAPI**
+- 🌱 I’m currently learning **ReactJS,TailwindCSS & FastAPI**
 
 - 📫 How to reach me **muhdhakeemadli@gmail.com**
 

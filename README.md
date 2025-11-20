@@ -2,10 +2,18 @@
 	<img src="/img/Rectangle.png" alt="Header" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Hakeem Adli</h1>
-<h3 align="center">A enthusiatic web developer from Malaysia</h3>
+<div id="toc" align="center" >
+  <ul style="list-style: none">
+	<summary>
+		<h1> Hi there 👋, I'm Hakeem Adli</h1>
+	</summary>
+  </ul>
+	<h3> An enthusiastic web developer from Malaysia.</h3>
+</div>
 
-## Connect with me:
+
+
+## 👥 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakeemadli/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/hakeemadli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhdhakeemadli@gmail.com) 
 
@@ -23,7 +31,7 @@
 | **Design & Tools** | ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | **Hardware & IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakeemadli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---

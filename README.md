@@ -1,5 +1,7 @@
 
-![profile_header](hakeemadli/img/Rectangle.png "Header" {width=800px height=400px})
+![profile_header](hakeemadli/img/Rectangle.png "Header")
+
+<img src="hakeemadli/img/Rectangle.png width=800px height=400px">
 
 <h1 align="center">Hi there 👋, I'm Hakeem Adli</h1>
 <h3 align="center">A enthusiatic multi-facetted web developer from Malaysia</h3>

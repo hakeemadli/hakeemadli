@@ -1,12 +1,10 @@
 
-![profile_header](hakeemadli/img/Rectangle.png "Header")
-
-<img src="hakeemadli/img/Rectangle.png width=800px height=400px">
+![profile_header](/img/Rectangle.png "Header")
 
 <h1 align="center">Hi there 👋, I'm Hakeem Adli</h1>
-<h3 align="center">A enthusiatic multi-facetted web developer from Malaysia</h3>
+<h3 align="center">A enthusiatic web developer from Malaysia</h3>
 
-- 🌱 I’m currently learning how to produce good **UI and UX design** and Github Action
+- 🌱 I’m currently learning how to produce good **UI and UX design** and **Github Action**
 
 ## Connect with me:
 

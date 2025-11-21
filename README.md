@@ -5,7 +5,7 @@
 <div id="toc" align="center" >
   <ul style="list-style: none">
 	<summary>
-		<h1> Hi there 👋, I'm Hakeem Adli</h1>
+		<h2> Hi there 👋, I'm Hakeem Adli</h2>
 	</summary>
   </ul>
 	<h3> An enthusiastic web developer from Malaysia.</h3>

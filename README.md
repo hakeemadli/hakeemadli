@@ -8,7 +8,7 @@
 		<h2> Hi there 👋, I'm Hakeem Adli</h2>
 	</summary>
   </ul>
-	<h3> An enthusiastic web developer from Malaysia.</h3>
+	<h3> A lifelong learner and web orchestrator from Malaysia!</h3>
 </div>
 
 
